@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&langs_count=8)](https://github.com/hamzzgab/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Airbnb-Rating-Prediction)](https://github.com/hamzzgab/Airbnb-Rating-Prediction)
