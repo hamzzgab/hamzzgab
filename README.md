@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+##  🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hamzajg16@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
