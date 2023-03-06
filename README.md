@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Stats
+## My Stats 📊
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+## Currently Listening to 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/flyingtatta/spotify-github-profile)
 
-##  🤝🏻 &nbsp;Connect with Me
+## Connect with Me 🤝
 <p align="center">
 <a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Hamza%20Gabajiwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hamzajg16@gamil.com"><img src="https://img.shields.io/badge/-hamzajg16@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
