@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact)](https://github.com/hamzzgab/github-readme-stats)
