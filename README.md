@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
+</a>
+</p>
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact)](https://github.com/hamzzgab/github-readme-stats)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
