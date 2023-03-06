@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact)](https://github.com/hamzzgab/github-readme-stats)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
