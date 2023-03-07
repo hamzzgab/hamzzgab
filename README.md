@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Listening to 🎵
-<p align="">
 <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</p>
 
 ## Connect with Me 🤝
 <p align="center">
