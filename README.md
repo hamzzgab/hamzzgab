@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ## Connect with Me 🤝
 <p align="center">
 <a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Hamza%20Gabajiwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hamzajg16@gamil.com"><img src="https://img.shields.io/badge/-hamzajg16@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hamzajg16@gmail.com"><img src="https://img.shields.io/badge/-hamzajg16@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
