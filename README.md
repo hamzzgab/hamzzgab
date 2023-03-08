@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Stats 📊
-<p>
+<p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Repos
-<p>
+<p align="center">
 <a href="https://github.com/mark123jesper/Real-Time-Animation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Animation&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
@@ -32,11 +32,16 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 </p>
-<br>
 
+<p align="center">
 <a href="https://github.com/mark123jesper/Airbnb-Rating-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Airbnb-Rating-Prediction&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
+
+  <a href="https://github.com/mark123jesper/3DTicTacToe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=3DTicTacToe&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<p>
 
 ## Leet Code Stats
 ![](https://leetcard.jacoblin.cool/hamzajg16_?border=0&radius=20)
