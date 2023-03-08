@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Animation&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 
+## Leet Code Stats
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hamzzgab)](https://github.com/hamzzgab/github-readme)
+
 ## Listening to 🎵
 <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
