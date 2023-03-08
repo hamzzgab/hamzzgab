@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Leet Code Stats
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hamzzgab)](https://github.com/hamzzgab/github-readme)
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hamzajg16_)](https://github.com/hamzajg16_/github-readme)
 
 ## Listening to 🎵
 <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
