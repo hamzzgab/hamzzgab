@@ -49,8 +49,9 @@ Here are some ideas to get you started:
  </p>
 
 ## Listening to 🎵
-<img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-
+<p align="center">
+<img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</p>
 ## Connect with Me 🤝
 <p align="center">
 <a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Hamza%20Gabajiwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
