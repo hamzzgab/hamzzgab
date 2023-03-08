@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Repos
+<p>
 <a href="https://github.com/mark123jesper/Real-Time-Animation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Animation&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/mark123jesper/Real-Time-Rendering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
-
+</p>
 <br>
 
 <a href="https://github.com/mark123jesper/Airbnb-Rating-Prediction">
