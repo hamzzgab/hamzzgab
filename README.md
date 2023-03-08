@@ -27,8 +27,18 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Animation&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 
+<a href="https://github.com/mark123jesper/Real-Time-Rendering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/mark123jesper/Airbnb-Rating-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Airbnb-Rating-Prediction&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+
 ## Leet Code Stats
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hamzajg16_)](https://github.com/hamzajg16_/github-readme)
+![](https://leetcard.jacoblin.cool/hamzajg16_?border=0&radius=20)
 
 ## Listening to 🎵
 <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31yzqermbzndvgoxuhxjtb22lypy&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
