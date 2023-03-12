@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/hamzzgab/Real-Time-Rendering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
+  
+ <a href="https://github.com/hamzzgab/Artificial-Intelligence">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Artificial-Intelligence&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
 </p>
 
 ## My Projects 🏛️
