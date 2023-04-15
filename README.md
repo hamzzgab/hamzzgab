@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 </p>
 
 ## I'm Currently Working on 📚
-<p align="center">
+<p align="center">  
+<a href="https://github.com/hamzzgab/MenaceOfTheSeagull">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=MenaceOfTheSeagull&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+  
 <a href="https://github.com/hamzzgab/Real-Time-Animation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Animation&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 
 <a href="https://github.com/hamzzgab/Real-Time-Rendering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-  
- <a href="https://github.com/hamzzgab/MenaceOfTheSeagull">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=MenaceOfTheSeagull&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 </p>
 
