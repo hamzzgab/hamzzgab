@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
   
- <a href="https://github.com/hamzzgab/Artificial-Intelligence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Artificial-Intelligence&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+ <a href="https://github.com/hamzzgab/MenaceOfTheSeagull">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=MenaceOfTheSeagull&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 </p>
 
