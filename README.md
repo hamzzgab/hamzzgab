@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
 </a>
 </p>
-
+<!-- 
 ## I'm Currently Working on 📚
 <p>
   Myself
-</p>
+</p> -->
 
 ## My Projects 🏛️
 <p align="center">  
