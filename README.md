@@ -20,16 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-
-
-## My Stats 📊
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
-</a>
-</p>
-
 ## I'm Currently Working on 📚
 <p align="center">  
   <a href="https://github.com/hamzzgab/DAS-GAND">
@@ -64,6 +54,13 @@ Here are some ideas to get you started:
   </a>
 <p>
 
+## My Stats 📊
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
+</a>
+</p>
   
   
 ## Leet Code Stats
