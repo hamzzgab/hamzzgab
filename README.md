@@ -1,4 +1,4 @@
-Hi there 👋, I am Hamza Gabajiwala 
+Hi there 👋, I am Hamza Gabajiwala, a developing Software Developer. 
 
 <!--
 **hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
