@@ -1,4 +1,5 @@
-Hey there! 👋 Welcome to my GitHub Readme page! I'm Hamza Gabajiwala, a supercharged Software Developer on a mission to conquer modern-day problems through the magic of code. I'm diving deep into the fascinating Augmented and Virtual Reality world at Trinity College Dublin. But that's not all—My thesis is about harnessing the power of synthetic images to revolutionize the way we collect and annotate training data. By doing so, I'm helping machine learning models unleash their full potential on unseen (testing) data. 
+#### Hey there! 👋 
+Welcome to my GitHub Readme page! I'm Hamza Gabajiwala, a supercharged Software Developer on a mission to conquer modern-day problems through the magic of code. I'm diving deep into the fascinating Augmented and Virtual Reality world at Trinity College Dublin. But that's not all—My thesis is about harnessing the power of synthetic images to revolutionize the way we collect and annotate training data. By doing so, I'm helping machine learning models unleash their full potential on unseen (testing) data. 
 
 <!--
 **hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
