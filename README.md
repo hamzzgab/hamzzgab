@@ -6,7 +6,6 @@ When I am not writing code, you can find me in the mountains capturing breathtak
 - 🔭 I’m working on `var = Using GANs to Generalise Machine Learning Models.`
 - 🌱 I’m currently learning `list = [Game Development, React, Docker, Cooking]`
 - 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
-- 😄 Pronouns: `he/him`
 
 Below are my Technical Projects/Stats:
 <!--
