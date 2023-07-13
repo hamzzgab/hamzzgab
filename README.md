@@ -8,7 +8,7 @@ When I am not writing code, you can find me in the mountains capturing breathtak
 - 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
 - 😄 Pronouns: `he/him`
 
-Below are the Technical Projects/Stats about me:
+Below are my Technical Projects/Stats:
 <!--
 **hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
