@@ -4,12 +4,9 @@ Welcome to my GitHub Readme page! I'm Hamza Gabajiwala, a supercharged Software 
 When I am not writing code, you can find me in the mountains capturing breathtaking photos or playing Kerbal Space Program.
 
 - 🔭 I’m working on `var = Using GANs to Generalise Machine Learning Models.`
-- 🌱 I’m currently learning `list = [Game Development, Docker, How to Cook]`
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning `list = [Game Development, React, Docker, How to Cook]`
+- 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
+- 😄 Pronouns: `he/him`
 - ⚡ Fun fact: ...
 
 Below are the Technical Projects/Stats about me:
@@ -17,6 +14,10 @@ Below are the Technical Projects/Stats about me:
 **hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
 -->
 
 
