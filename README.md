@@ -7,7 +7,6 @@ When I am not writing code, you can find me in the mountains capturing breathtak
 - 🌱 I’m currently learning `list = [Game Development, React, Docker, How to Cook]`
 - 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: ...
 
 Below are the Technical Projects/Stats about me:
 <!--
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- ⚡ Fun fact: 
 -->
 
 
