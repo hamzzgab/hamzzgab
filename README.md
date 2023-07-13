@@ -3,21 +3,24 @@ Welcome to my GitHub Readme page! I'm Hamza Gabajiwala, a supercharged Software 
 
 When I am not writing code, you can find me in the mountains capturing breathtaking photos or playing Kerbal Space Program.
 
-Below are the Technical Projects/Stats about me:
-<!--
-**hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m working on `var = Using GANs to Generalise Machine Learning Models.`
+- 🌱 I’m currently learning `list = [Game Development, Docker, How to Cook]`
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Below are the Technical Projects/Stats about me:
+<!--
+**hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
+
+
+
 ## My Stats 📊
 <p align="center">
 <a href="https://github.com/AVS1508">
