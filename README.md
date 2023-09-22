@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 -->
 
 ## I'm Currently Working on 📚
+
+## My Projects 🏛️
 <p align="center">  
   <a href="https://github.com/hamzzgab/DAS-GAND">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=DAS-GAND&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
   </a>
-</p>
-
-## My Projects 🏛️
-<p align="center">  
+  
   <a href="https://github.com/hamzzgab/MenaceOfTheSeagull">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=MenaceOfTheSeagull&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
   </a>
