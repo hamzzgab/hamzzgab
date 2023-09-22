@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<-- ## I'm Currently Working on 📚 -->
-
 ## My Projects 🏛️
 <p align="center">  
   <a href="https://github.com/hamzzgab/DAS-GAND">
