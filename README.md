@@ -7,7 +7,6 @@ When I am not writing code, you can find me in the mountains capturing breathtak
 - 🌱 I’m currently learning `list = [Game Development, React, Docker, Cooking]`
 - 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
 
-Below are my Technical Projects/Stats:
 <!--
 **hamzzgab/hamzzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
