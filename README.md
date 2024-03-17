@@ -1,10 +1,10 @@
 ## Hey there! 👋 
 Welcome to my GitHub Readme page! I'm Hamza Gabajiwala, a supercharged Software Developer on a mission to conquer modern-day problems through the magic of code. I'm diving deep into the fascinating Augmented and Virtual Reality world at Trinity College Dublin. But that's not all—My thesis is about harnessing the power of synthetic images to revolutionize the way we collect and annotate training data. By doing so, I'm helping machine learning models unleash their full potential on unseen (testing) data. 
 
-When I am not writing code, you can find me in the mountains capturing breathtaking photos or playing Kerbal Space Program.
+When I am not writing code, you can find me in the mountains capturing breathtaking photos or playing the Kerbal Space Program.
 
-- 🔭 I’m working on `var = Using GANs to Generalise Machine Learning Models.`
-- 🌱 I’m currently learning `list = [Game Development, React, Docker, Cooking]`
+- 🔭 I’m working in `val Yahoo String:= "Software Engineer"`
+- 🌱 I’m currently `var learning Array := [AI, Scala, Pig]`
 - 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
 
 <!--
