@@ -18,6 +18,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
+## Life Flow
+
+```mermaid
+flowchart LR
+  A1-.->|2020|B0
+  A1-.->|2021|B1
+  A2-->|2024|B2
+  A1-.->D1[B.Tech Computer Science]:::int
+  A2-.->D2[MSc Computer Science]:::int
+  subgraph Education
+    A0[Rajhans Vidyalaya]:::rajhans-->|2016|A1[MPSTME]:::mukesh-->|2022|A2[Trinity College Dublin]:::tcd
+  end
+subgraph Work
+    B0[NDTS]:::ndts
+    B1[TIAA]:::tiaa
+    B2[Yahoo]:::yahoo
+  end
+
+classDef rajhans fill:#201658, stroke-width:1px
+classDef mukesh fill:#d2222a, stroke:#58585a, stroke-width:1px
+classDef tcd fill:#0569b9, stroke:#50555a, stroke-width:1px
+classDef ndts fill:#0362a7, stroke:#07e9d6, stroke-width:1px
+classDef tiaa fill:#005495, stroke:#95D9F7, stroke-width:1px
+classDef yahoo fill:#410093, stroke:#5F5D9C, stroke-width:1px
+classDef int stroke:#FFF455, stroke-width:1px, color:#fff,stroke-dasharray: 5 3
+```
+
 ## My Projects 🏛️
 <p align="center">  
   <a href="https://github.com/hamzzgab/DAS-GAND">
