@@ -3,8 +3,8 @@ Welcome to my GitHub Readme page! I'm Hamza Gabajiwala, a supercharged Software 
 
 When I am not writing code, you can find me in the mountains capturing breathtaking photos or playing the Kerbal Space Program.
 
-- 🔭 I’m working in `val Yahoo String:= "Software Engineer"`
-- 🌱 I’m currently `var learning Array := [AI, Scala, Pig]`
+- 🔭 I’m working in `val Yahoo String:="Software Engineer"`
+- 🌱 I’m currently `var learning Array:=[AWS, Scala, Pig, Airflow, ML]`
 - 📫 How to reach me: <a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a>
 
 <!--
