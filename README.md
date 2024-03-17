@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## Life Flow
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 flowchart LR
   A1-.->|2020|B0
   A1-.->|2021|B1
