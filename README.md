@@ -25,35 +25,12 @@ timeline
          : Software Development Engineer
 ```
 
-## Projects 🏛️
-<p align="center">
-  <a href="https://github.com/hamzzgab/DAS-GAND">
-    <img style="height:125px;" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=DAS-GAND&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-  </a>
-
-  <a href="https://github.com/hamzzgab/Real-Time-Rendering">
-    <img style="height:125px;" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Rendering&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-  </a>
-
-  <a href="https://github.com/hamzzgab/Airbnb-Rating-Prediction">
-    <img style="height:125px;" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Airbnb-Rating-Prediction&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-  </a>
-
-  <a href="https://github.com/hamzzgab/Real-Time-Animation">
-    <img style="height:125px;" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzzgab&repo=Real-Time-Animation&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-  </a>
-</p>
-
 ## Stats 📊
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
 </p>
 
-## LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hamzajg16_?border=0&radius=20&ext=heatmap"/>
-</p>
 
 ## Connect with Me 🤝
 <p align="center">
