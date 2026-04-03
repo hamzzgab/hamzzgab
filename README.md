@@ -25,13 +25,6 @@ timeline
          : Software Development Engineer
 ```
 
-## Stats 📊
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzzgab&theme=radical&layout=compact" />
-</p>
-
-
 ## Connect with Me 🤝
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Hamza%20Gabajiwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
