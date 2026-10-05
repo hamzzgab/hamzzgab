@@ -82,22 +82,44 @@ I work on **large-scale data pipelines and audience targeting systems** that pow
 
 <br/>
 
-## 🧭 Life Flow
+## 🧭 Journey
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'cScale0':'#0077B5','cScale1':'#6a5acd','cScale2':'#c471ed','cScale3':'#0077B5','cScale4':'#6a5acd','cScale5':'#c471ed','cScaleLabel0':'#fff','cScaleLabel1':'#fff','cScaleLabel2':'#fff','cScaleLabel3':'#fff','cScaleLabel4':'#fff','cScaleLabel5':'#fff'}}}%%
-timeline
-    title Life Flow
-    2016 : Rajhans Vidyalaya
-    2018 : MPSTME
-         : B.Tech Computer Science
-    2020 : NDT Solutions
-    2021 : TIAA
-    2022 : Trinity College Dublin
-         : MSc Computer Science
-    2024 : Yahoo
-         : Software Development Engineer
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140"><img src="https://img.shields.io/badge/2024_%E2%86%92_Now-c471ed?style=for-the-badge"/></td>
+    <td align="center" width="50">💼</td>
+    <td><b>Yahoo</b><br/><sub>Software Development Engineer · data pipelines, audience targeting, GenAI</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2022-a06ce0?style=for-the-badge"/></td>
+    <td align="center">🎓</td>
+    <td><b>Trinity College Dublin</b><br/><sub>M.Sc. Computer Science · 1:1</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2021-8a63d2?style=for-the-badge"/></td>
+    <td align="center">💼</td>
+    <td><b>TIAA</b><br/><sub>Industry experience</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2020-6a5acd?style=for-the-badge"/></td>
+    <td align="center">💼</td>
+    <td><b>NDT Solutions</b><br/><sub>Industry experience</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2018-3f68c2?style=for-the-badge"/></td>
+    <td align="center">🎓</td>
+    <td><b>MPSTME, NMIMS University</b><br/><sub>B.Tech Computer Engineering</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2016-0077B5?style=for-the-badge"/></td>
+    <td align="center">🏫</td>
+    <td><b>Rajhans Vidyalaya</b><br/><sub>School</sub></td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
