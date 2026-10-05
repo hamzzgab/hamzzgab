@@ -70,13 +70,13 @@ I work on **large-scale data pipelines and audience targeting systems** that pow
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzzgab&theme=tokyonight" alt="profile details" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzzgab&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzzgab&theme=tokyonight" alt="stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzzgab&theme=tokyonight" alt="repos per language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzzgab&theme=tokyonight" alt="most commit language" width="32%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzzgab&theme=tokyonight" alt="profile details" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzzgab&theme=tokyonight" alt="repos per language" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=hamzzgab&theme=tokyonight&hide_border=true&border_radius=6&card_width=700&card_height=200" alt="streak" width="100%"/>
 
 </div>
 
