@@ -1,61 +1,91 @@
 <div align="center">
 
-# Hey there, I'm Hamza Gabajiwala 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:6a5acd,100:c471ed&height=220&section=header&text=Hamza%20Gabajiwala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%40%20Yahoo&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
 
-### Software Development Engineer @ Yahoo · Data Pipelines · Ad-Tech · GenAI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8A7CFF&center=true&vCenter=true&width=650&lines=Building+large-scale+data+pipelines+%E2%9A%99%EF%B8%8F;Powering+programmatic+advertising+for+hundreds+of+millions+of+users+%F0%9F%93%A1;Integrating+LLMs+into+search+retargeting+%F0%9F%A4%96" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0077B5&center=true&vCenter=true&width=600&lines=Building+large-scale+data+pipelines;Powering+programmatic+advertising;Integrating+LLMs+into+search+retargeting" alt="Typing SVG" />
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hamzajg16@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hamzzgab&style=for-the-badge&color=blue&label=Profile+Views"/>
-</p>
+<a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hamzajg16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/hamzzgab"><img src="https://img.shields.io/github/followers/hamzzgab?label=Follow&style=for-the-badge&logo=github&color=24292e"/></a>
+<img src="https://komarev.com/ghpvc/?username=hamzzgab&style=for-the-badge&color=6a5acd&label=Profile+Views"/>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-I work on large-scale data pipelines and audience targeting systems that power programmatic advertising for **hundreds of millions of users**. I build and maintain batch scoring pipelines using Apache Spark, Airflow, and Kafka on AWS, and I've recently been integrating **GenAI/LLM** capabilities into our search retargeting systems.
+> *I turn billions of events into audiences that ads can actually reach.*
 
-- 🔭 Building data pipelines and audience scoring systems at **Yahoo**
-- 🤖 Integrating LLMs into ad-tech search retargeting pipelines
-- 🎓 M.Sc. Computer Science, **Trinity College Dublin** (1:1)
-- 🎓 B.Tech Computer Engineering, **NMIMS University**
-- 📫 Reach me at [hamzajg16@gmail.com](mailto:hamzajg16@gmail.com)
+I work on **large-scale data pipelines and audience targeting systems** that power programmatic advertising for **hundreds of millions of users**. I build and maintain batch scoring pipelines using Apache Spark, Airflow, and Kafka on AWS, and I've recently been integrating **GenAI / LLM** capabilities into our search retargeting systems.
+
+<table>
+  <tr>
+    <td>🔭 <b>Now</b></td>
+    <td>Building data pipelines and audience scoring systems at <b>Yahoo</b></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Exploring</b></td>
+    <td>LLMs in ad-tech search retargeting pipelines</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>M.Sc.</b></td>
+    <td>Computer Science, Trinity College Dublin (1:1)</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>B.Tech</b></td>
+    <td>Computer Engineering, NMIMS University</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Reach me</b></td>
+    <td><a href="mailto:hamzajg16@gmail.com">hamzajg16@gmail.com</a></td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
-</p>
+<div align="center">
 
-| Area | Tools |
+<img src="https://skillicons.dev/icons?i=python,scala,spark,airflow,kafka,aws,elasticsearch,linux,git,github&perline=10" alt="tech icons"/>
+
+<br/><br/>
+
+| 🧩 Area | ⚡ Tools |
 | :-- | :-- |
-| **Languages** | Python, Scala |
-| **Big Data** | Apache Spark, Kafka, Airflow |
-| **Cloud** | AWS (EMR, S3, Glue) |
-| **Search** | OpenSearch |
-| **AI** | LLM / GenAI integration |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Big Data** | ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) EMR · S3 · Glue |
+| **Search** | ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white) |
+| **AI** | ![LLMs](https://img.shields.io/badge/GenAI%20%2F%20LLMs-8A7CFF?style=flat-square&logo=openai&logoColor=white) |
+
+</div>
+
+<br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzzgab&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzzgab&theme=tokyonight" alt="profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzzgab&theme=tokyonight" alt="repos per language" width="49%"/>
+
 </div>
+
+<br/>
 
 ## 🧭 Life Flow
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#0077B5','cScale1':'#6a5acd','cScale2':'#c471ed','cScale3':'#0077B5','cScale4':'#6a5acd','cScale5':'#c471ed','cScaleLabel0':'#fff','cScaleLabel1':'#fff','cScaleLabel2':'#fff','cScaleLabel3':'#fff','cScaleLabel4':'#fff','cScaleLabel5':'#fff'}}}%%
 timeline
     title Life Flow
     2016 : Rajhans Vidyalaya
@@ -69,9 +99,19 @@ timeline
          : Software Development Engineer
 ```
 
+<br/>
+
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Hamza%20Gabajiwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hamzajg16@gmail.com"><img src="https://img.shields.io/badge/-hamzajg16@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hamza-gabajiwala"><img src="https://img.shields.io/badge/-Hamza%20Gabajiwala-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hamzajg16@gmail.com"><img src="https://img.shields.io/badge/-hamzajg16@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+*Always happy to chat about data engineering, ad-tech, and GenAI.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:6a5acd,100:0077B5&height=120&section=footer" width="100%" alt="footer banner"/>
+
+</div>
