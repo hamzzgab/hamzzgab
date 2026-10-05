@@ -50,7 +50,16 @@ I work on **large-scale data pipelines and audience targeting systems** that pow
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,scala,spark,airflow,kafka,aws,elasticsearch,linux,git,github&perline=10" alt="tech icons"/>
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=scala" height="48" alt="Scala"/>
+<img src="assets/icons/spark.svg" height="48" alt="Apache Spark"/>
+<img src="assets/icons/airflow.svg" height="48" alt="Apache Airflow"/>
+<img src="assets/icons/kafka.svg" height="48" alt="Apache Kafka"/>
+<img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=elasticsearch" height="48" alt="Elasticsearch / OpenSearch"/>
+<img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
 
 <br/><br/>
 
@@ -61,22 +70,6 @@ I work on **large-scale data pipelines and audience targeting systems** that pow
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) EMR · S3 · Glue |
 | **Search** | ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white) |
 | **AI** | ![LLMs](https://img.shields.io/badge/GenAI%20%2F%20LLMs-8A7CFF?style=flat-square&logo=openai&logoColor=white) |
-
-</div>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamzzgab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzzgab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzzgab&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzzgab&theme=tokyonight" alt="profile details" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzzgab&theme=tokyonight" alt="repos per language" width="49%"/>
 
 </div>
 
