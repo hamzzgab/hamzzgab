@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:6a5acd,100:c471ed&height=220&section=header&text=Hamza%20Gabajiwala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%40%20Yahoo&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8A7CFF&center=true&vCenter=true&width=650&lines=Building+large-scale+data+pipelines+%E2%9A%99%EF%B8%8F;Powering+programmatic+advertising+for+hundreds+of+millions+of+users+%F0%9F%93%A1;Integrating+LLMs+into+search+retargeting+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8A7CFF&center=true&vCenter=true&width=600&lines=Building+large-scale+data+pipelines+%E2%9A%99%EF%B8%8F;Ad+targeting+at+massive+scale+%F0%9F%93%A1;Bringing+LLMs+to+search+retargeting+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
