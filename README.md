@@ -1,7 +1,7 @@
 <a href="https://www.hamzagabajiwala.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="Hamza Gabajiwala. Software Engineer at Yahoo. Every ad you see had to find you first. I build the systems that do the finding." width="100%">
+    <img src="assets/hero-light.svg" alt="Hamza Gabajiwala. Software Engineer at Yahoo, Dublin." width="100%">
   </picture>
 </a>
 
