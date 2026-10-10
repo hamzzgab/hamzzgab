@@ -17,6 +17,29 @@
   <a href="mailto:hamzajg16@gmail.com">Email</a>
 </p>
 
+<h2>About</h2>
+
+> I turn billions of events into audiences that ads can actually reach.
+
+I work on **large-scale data pipelines and audience targeting systems** that power programmatic advertising for **hundreds of millions of users**. I build and maintain batch scoring pipelines using Apache Spark, Airflow, and Kafka on AWS, and I've recently been integrating **GenAI / LLM** capabilities into our search retargeting systems.
+
+- **Now** &nbsp; Building data pipelines and audience scoring systems at Yahoo
+- **Exploring** &nbsp; LLMs in ad-tech search retargeting pipelines
+- **M.Sc.** &nbsp; Computer Science, Trinity College Dublin (1:1)
+- **B.Tech** &nbsp; Computer Engineering, NMIMS University
+- **Reach me** &nbsp; [hamzajg16@gmail.com](mailto:hamzajg16@gmail.com)
+
+<h2>Journey <sup>06</sup></h2>
+
+| Year | Where | What |
+| :-- | :-- | :-- |
+| 2024 to now | **Yahoo** | Software Development Engineer · data pipelines, audience targeting, GenAI |
+| 2022 | **Trinity College Dublin** | M.Sc. Computer Science · 1:1 |
+| 2021 | **TIAA** | Industry experience |
+| 2020 | **NDT Solutions** | Industry experience |
+| 2018 | **MPSTME, NMIMS University** | B.Tech Computer Engineering |
+| 2016 | **Rajhans Vidyalaya** | School |
+
 <br>
 
 <a href="mailto:hamzajg16@gmail.com">
