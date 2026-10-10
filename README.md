@@ -49,14 +49,3 @@
     <img src="assets/journey-light.svg" alt="Journey. 2024 to now: Yahoo, Software Development Engineer, data pipelines, audience targeting, GenAI. 2022: Trinity College Dublin, M.Sc. Computer Science, 1:1. 2021: TIAA, industry experience. 2020: NDT Solutions, industry experience. 2018: MPSTME, NMIMS University, B.Tech Computer Engineering. 2016: Rajhans Vidyalaya, school." width="100%">
   </picture>
 </p>
-
-<p>
-<a href="mailto:hamzajg16@gmail.com">
-  <picture>
-    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/hello-m-dark.svg">
-    <source media="(max-width: 640px)" srcset="assets/hello-m-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-    <img src="assets/hello-light.svg" alt="Say hello: hamzajg16@gmail.com" width="100%">
-  </picture>
-</a>
-</p>
