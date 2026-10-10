@@ -1,10 +1,3 @@
-<a href="https://www.hamzagabajiwala.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="Hamza Gabajiwala. Software Engineer at Yahoo, Dublin." width="100%">
-  </picture>
-</a>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=scala" height="48" alt="Scala"/>
